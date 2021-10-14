@@ -1,7 +1,13 @@
 # Manager
 
-we create man
+we create man    
 
+All the Functionalities running successfully ....pagination,  deletedata , updatedata , filterdata , search on base of name   etc ... 
+show worklogs through admin (Admin Dashboard) :::  when admin update userworklog (update successfully in api ) but see on page its require goback to admindashboad and then again goto userworklog page from sameuserid , we see userworklog upadted data successfulyy and table data updated (which data you will update it will change successfully) ...
+ 
+ Delete admin record (Admin Dashboard) ::  when we click on delete it will delete successfully from api . Refresh require , After refresh  we will not see a deleteid data on page ...
+ 
+ 
 
 
 

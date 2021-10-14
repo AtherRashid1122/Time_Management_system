@@ -1,0 +1,92 @@
+.Manager{
+
+    background-color:'#009DCC';
+    background-color: lightseagreen;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+   margin-bottom: 30px;
+   height: 80px;
+   color: white;
+   display: flex;
+   justify-content: space-around;
+    
+}
+.fontSize{
+    font-size: 34px;
+    font-weight: bold;
+}
+.inputfields{
+
+display: flex;
+justify-content: center;
+align-items: center;
+align-content: center;
+text-align: center;
+/* margin-bottom: 50px; */
+}
+.inputfields1{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  /* margin-bottom: 50px; */
+  }
+.contentuser{
+    border: 2px solid red;
+    height: 80px;
+    display: flex;
+}
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers tr:hover {background-color: #ddd;}
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: lightseagreen;
+    color: white;
+  }
+  .buttonstyle{
+
+    background-color: lightseagreen;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    
+  }
+
+  .button{
+    /* background-color: red; */
+    /* justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center; */
+    margin-top: 40px;
+    /* width: 30%; */
+    /* margin: 0 auto; */
+    align-self: center;
+    /* padding: 20px;  */
+}
+.bstyle{
+  margin-left: 10px;
+}
+.color{
+  color:'white'
+}
